@@ -124,10 +124,10 @@ PROBABILITY.2.recDbROZEC3r2zFfR
 	Start with concrete solutions to problems and move towards deeper understanding with conceptual intuitions behind permutations and combinations.
     
 * Conditional Probability Example (10 minutes)
-    * When do we need to compute conditional probabilities?
+    * When do we compute conditional probabilities? (2 minutes)
         * Motivate the discussion of conditional probability by talking about dependent events. 
         
-    * Applied practice
+    * Applied practice (8 minutes)
         * Bruised and edible mushrooms.
         * Intuition
             * Different sample spaces 
