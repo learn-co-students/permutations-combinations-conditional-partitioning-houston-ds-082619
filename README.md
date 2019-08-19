@@ -28,36 +28,58 @@ Probability
 #### Learn.co material:
 
 [Introduction](https://github.com/learn-co-curriculum/dsc-probability-section-intro)
+
 [What is Probability?](https://github.com/learn-co-curriculum/dsc-probability-introduction)
+
 [Introduction to Sets](https://github.com/learn-co-curriculum/dsc-intro-to-sets)
+
 [Introduction to Sets - Lab](https://github.com/learn-co-curriculum/dsc-intro-to-sets-lab)
+
 [Introduction to Probability](https://github.com/learn-co-curriculum/dsc-intro-to-probability)
+
 [Introduction to Probability - Lab](https://github.com/learn-co-curriculum/dsc-intro-to-probability-lab)
+
 [Permutations and Factorials](https://github.com/learn-co-curriculum/dsc-permutations-and-factorials)
+
 [Permutations and Factorials - Lab](https://github.com/learn-co-curriculum/dsc-permutations-and-factorials-lab)
+
 [Combinations](https://github.com/learn-co-curriculum/dsc-combinations)
+
 [Combinations - Lab](https://github.com/learn-co-curriculum/dsc-combinations-lab)
+
 [Conditional Probability](https://github.com/learn-co-curriculum/dsc-conditional-probability)
+
 [Conditional Probability - Lab](https://github.com/learn-co-curriculum/dsc-conditional-probability-lab)
+
 [Partitioning and Law of Total Probability](https://github.com/learn-co-curriculum/dsc-law-of-total-probability)
+
 [Partitioning and Law of Total Probability - Lab](https://github.com/learn-co-curriculum/dsc-law-of-total-probability-lab)
+
 [Simulations with Conditional and Total Probability - Lab](https://github.com/learn-co-curriculum/dsc-probability-simulations-lab)
+
 [Section Recap](https://github.com/learn-co-curriculum/dsc-probability-section-recap)
 
 #### Prerequisite knowledge:
 
 Basic understanding of probability.
+
 Exposure to factorials, permutations, combinations, conditional probabilities and partitioning of probabilities.
 
 #### Prequisite Learn-Materials:
 
 
 What is Probability?
+
 Introduction to Sets
+
 Introduction to Probability
+
 Permutations and Factorials
+
 Combinations
+
 Conditional Probability
+
 Partitioning and Law of Total Probability
 
 
@@ -67,14 +89,14 @@ Partitioning and Law of Total Probability
 * Students can explain the difference between permutations and combinations
 * Students can calculate permutations and combinations using python packages
 * Students can decompose an applied risk problem into conditional probability.
-* Students understand how to compute conditional probabilities. 
+* Students understand the meaning of conditional probabilities and how to compute them. 
 
 
 From airtable:
 PROBABILITY.1.recpyfnmljuKDhQBd
 
 PROBABILITY.2.rec8DptjKknxB8ehF
-PROBABILITY.2.recDbROZEC3r2zFfR (Calculate probabilities by using relative frequency of outcomes to event space)
+PROBABILITY.2.recDbROZEC3r2zFfR
 
 
 
