@@ -67,11 +67,15 @@ Partitioning and Law of Total Probability
 * Students can explain the difference between permutations and combinations
 * Students can calculate permutations and combinations using python packages
 * Students can decompose an applied risk problem into conditional probability.
-* Students can
+* Students understand how to compute conditional probabilities. 
 
 
 From airtable:
 PROBABILITY.1.recpyfnmljuKDhQBd
+
+PROBABILITY.2.rec8DptjKknxB8ehF
+PROBABILITY.2.recDbROZEC3r2zFfR (Calculate probabilities by using relative frequency of outcomes to event space)
+
 
 
 #### Misconceptions / Notes
