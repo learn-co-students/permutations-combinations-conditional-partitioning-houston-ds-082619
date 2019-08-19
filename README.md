@@ -83,7 +83,11 @@ PROBABILITY.1.recpyfnmljuKDhQBd
 
 #### Vocab / Concepts 
 
-*
+* permutations
+* combinations
+* conditional probability
+* independent and dependent events
+* sample space 
 
 #### Lesson Outline:
 
@@ -92,8 +96,16 @@ PROBABILITY.1.recpyfnmljuKDhQBd
 * Applied Practice (10min-15minutes)
 	* Padlocks + Pizza
 	Start with concrete solutions to problems and move towards deeper understanding with conceptual intuitions behind permutations and combinations.
-* Conditional Probability Example (10)
-    * 
+    
+* Conditional Probability Example (10 minutes)
+    * When do we need to compute conditional probabilities?
+        * Motivate the discussion of conditional probability by talking about dependent events. 
+        
+    * Applied practice
+        * Bruised and edible mushrooms.
+        * Intuition
+            * Different sample spaces 
+            
 * Partitioning (10)
 * Summary (10 min)
 
