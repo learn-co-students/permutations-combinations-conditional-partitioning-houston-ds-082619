@@ -126,9 +126,9 @@ PROBABILITY.2.recDbROZEC3r2zFfR
 * Conditional Probability Example (10 minutes)
     * When do we compute conditional probabilities? (2 minutes)
         * Motivate the discussion of conditional probability by talking about dependent events. 
-        
     * Applied practice (8 minutes)
         * Bruised and edible mushrooms.
+            * Level up: Repeat the exercise with other features in the mushroom dataset. 
         * Intuition
             * Different sample spaces 
             
