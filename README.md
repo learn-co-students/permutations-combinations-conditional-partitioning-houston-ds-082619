@@ -19,11 +19,30 @@ hidden: true
 
 #### Lesson Summary:
 
+This lesson starts by asking students to explain the difference between permutations and combinations. From there, it dives into two applied examples of permutations and combinations. If time is permitted explaining the intuition behind these concepts is recommended. From there, the lesson continues onto conditional probability and partitioning complex scenarios into simple examples.
 
 #### Topic:
 
+Probability
 
 #### Learn.co material:
+
+[Introduction](https://github.com/learn-co-curriculum/dsc-probability-section-intro)
+[What is Probability?](https://github.com/learn-co-curriculum/dsc-probability-introduction)
+[Introduction to Sets](https://github.com/learn-co-curriculum/dsc-intro-to-sets)
+[Introduction to Sets - Lab](https://github.com/learn-co-curriculum/dsc-intro-to-sets-lab)
+[Introduction to Probability](https://github.com/learn-co-curriculum/dsc-intro-to-probability)
+[Introduction to Probability - Lab](https://github.com/learn-co-curriculum/dsc-intro-to-probability-lab)
+[Permutations and Factorials](https://github.com/learn-co-curriculum/dsc-permutations-and-factorials)
+[Permutations and Factorials - Lab](https://github.com/learn-co-curriculum/dsc-permutations-and-factorials-lab)
+[Combinations](https://github.com/learn-co-curriculum/dsc-combinations)
+[Combinations - Lab](https://github.com/learn-co-curriculum/dsc-combinations-lab)
+[Conditional Probability](https://github.com/learn-co-curriculum/dsc-conditional-probability)
+[Conditional Probability - Lab](https://github.com/learn-co-curriculum/dsc-conditional-probability-lab)
+[Partitioning and Law of Total Probability](https://github.com/learn-co-curriculum/dsc-law-of-total-probability)
+[Partitioning and Law of Total Probability - Lab](https://github.com/learn-co-curriculum/dsc-law-of-total-probability-lab)
+[Simulations with Conditional and Total Probability - Lab](https://github.com/learn-co-curriculum/dsc-probability-simulations-lab)
+[Section Recap](https://github.com/learn-co-curriculum/dsc-probability-section-recap)
 
 #### Prerequisite knowledge:
 
