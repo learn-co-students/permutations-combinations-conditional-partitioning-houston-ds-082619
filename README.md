@@ -11,7 +11,7 @@ hidden: true
 **Course**: DS   <br/>
 **Mod**: Mod 3 V2         <br/>
 **Topic**:    <br/>
-**Amount of time**: 60 minutes  minutes  <br/>
+**Amount of time**: 60 minutes  <br/>
 **Author**: Matt Mitchell and Laura Colon Melendez
 
 
