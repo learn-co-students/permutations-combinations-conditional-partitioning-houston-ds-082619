@@ -11,7 +11,7 @@ hidden: true
 **Course**: DS   <br/>
 **Mod**: Mod 3 V2         <br/>
 **Topic**:    <br/>
-**Amount of time**: 60 minutes  minutes  <br/>
+**Amount of time**: 60 minutes <br/>
 **Author**: Matt Mitchell and Laura Colon Melendez
 
 
@@ -86,17 +86,21 @@ Partitioning and Law of Total Probability
 #### Learning goals for this lesson:
 
 
-* Students can explain the difference between permutations and combinations
-* Students can calculate permutations and combinations using python packages
+* Students can explain the difference between permutations and combinations. (Ordered selection vs set membership)
+* Students can calculate permutations and combinations using python packages.
 * Students can decompose an applied risk problem into conditional probability.
-* Students understand the meaning of conditional probabilities and how to compute them. 
+* Students can explain conditional probabilities using probability formulas and restriction of the universal set. 
 
 
 From airtable:
-PROBABILITY.1.recpyfnmljuKDhQBd
+* PROBABILITY.1.recpyfnmljuKDhQBd
+* PROBABILITY.2.recQBYkQriFJ73eIG
 
-PROBABILITY.2.rec8DptjKknxB8ehF
-PROBABILITY.2.recDbROZEC3r2zFfR
+* PROBABILITY.2.rec8DptjKknxB8ehF
+* PROBABILITY.2.recaTlHNsnKDw8mTe
+* PROBABILITY.2.recDbROZEC3r2zFfR
+
+* PROBABILITY.2.recEqlE4dxAZfL0LB
 
 
 
